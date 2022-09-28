@@ -1,3 +1,10 @@
+![AshTechieLogo](https://user-images.githubusercontent.com/110538923/192841860-a884245a-18cf-4231-9672-ddccf317b99d.png)
+
+Email:- ashish@ashtechie.com
+
+Web:- https://ashtechie.com
+
+Tweets:- @ashtechie777
 
 # AzMigrate
 
